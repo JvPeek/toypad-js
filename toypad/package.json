@@ -1,0 +1,12 @@
+{
+    "name": "toypad-lib",
+    "version": "1.0.0",
+    "description": "A library for controlling the Lego Dimensions Toypad via USB",
+    "main": "index.js",
+    "author": "JvPeek",
+    "license": "MIT",
+    "dependencies": {
+      "usb": "^1.6.3"
+    }
+  }
+  
