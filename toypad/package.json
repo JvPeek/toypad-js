@@ -6,7 +6,28 @@
     "author": "JvPeek",
     "license": "MIT",
     "dependencies": {
-      "usb": "^1.6.3"
-    }
-  }
-  
+        "usb": "^1.6.3"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JvPeek/toypad-js.git"
+    },
+    "keywords": [
+        "toypad",
+        "lego",
+        "dimensions",
+        "nfc",
+        "reader",
+        "nfc"
+    ],
+    "bugs": {
+        "url": "https://github.com/JvPeek/toypad-js/issues"
+    },
+    "homepage": "https://github.com/JvPeek/toypad-js#readme"
+}
